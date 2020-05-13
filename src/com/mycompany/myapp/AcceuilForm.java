@@ -14,6 +14,7 @@ import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.ui.util.Resources;
 import entities.User;
 import java.io.IOException;
+import services.ServiceEvenement;
 import services.ServiceUser;
 
 /**
@@ -47,6 +48,8 @@ public class AcceuilForm extends BaseForm {
 "Nous offrons également un service de réparation 24/7 et un service de location à un prix alléchant!\n" +
 "Notre site Web vous donne également la possibilité de participer à différentes compétitions et de gagner de superbes récompenses.\n" +
 "voulez-vous personnaliser votre propre vélo?\n" +" Velo.tn vous offre la possibilité de créer votre vélo de rêve!"));
+        
+        
                 
         /*
         addAll(new Label("Ma tmousch hetha juste a3mlou copie menou l'5edmetkom"));

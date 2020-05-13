@@ -9,7 +9,6 @@ import com.codename1.components.ImageViewer;
 import com.codename1.progress.CircleFilledProgress;
 import com.codename1.progress.CircleProgress;
 import com.codename1.ui.Container;
-import com.codename1.ui.EncodedImage;
 import com.codename1.ui.FontImage;
 import com.codename1.ui.Label;
 import com.codename1.ui.URLImage;
@@ -19,7 +18,6 @@ import com.codename1.ui.layouts.FlowLayout;
 import com.codename1.ui.util.Resources;
 import static com.mycompany.myapp.BaseForm.currentUser;
 import entities.User;
-import java.io.IOException;
 import java.util.ArrayList;
 import services.ServiceUser;
 import utils.Statics;
@@ -34,14 +32,8 @@ public class RankFrom extends BaseForm {
     private Resources resourceObjectInstance;
     private float percent = 0;
     private int x = 0;
-    EncodedImage encc;
 
     public RankFrom(com.codename1.ui.util.Resources resourceObjectInstance, BaseForm EvenementForm) {
-        try {
-                encc = EncodedImage.create("/giphy.gif");
-            } catch (IOException ex) {
-                System.out.println("enc ERR");
-            }
         this.resourceObjectInstance = resourceObjectInstance;
         setLayout(BoxLayout.y());
         setTitle("Classments");
@@ -56,7 +48,7 @@ public class RankFrom extends BaseForm {
         for (User ex : list) {
             i++;
             if (ex.getUsername().equals(currentUser.getUsername())) {
-                percent = ((list.size()-i+1) * 100) / list.size();
+                percent = ((i+1) * 100) / list.size();
                 percent = Math.round(percent);
                 p.setProgress((int) percent);
                 if (percent <= 50) {
@@ -77,6 +69,7 @@ public class RankFrom extends BaseForm {
 
             } else {
                 UID = "default";
+
             }
             Container mainContent = BoxLayout.encloseY(
                     BoxLayout.encloseX(
@@ -86,10 +79,9 @@ public class RankFrom extends BaseForm {
                             new Label("Score :", LabelStyle),
                             new Label("" + ex.getScore(), LabelStyle))
             );
-            
             try {
                 System.out.println("url : " + url);
-                img = URLImage.createToStorage(encc, url, url, URLImage.RESIZE_SCALE);
+                img = URLImage.createToStorage(enc, url, url, URLImage.RESIZE_SCALE);
                 System.out.println("Done");
             } catch (NullPointerException exx) {
                 img = resourceObjectInstance.getImage("holder.jpg");

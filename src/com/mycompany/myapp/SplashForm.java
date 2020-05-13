@@ -20,8 +20,6 @@
 package com.mycompany.myapp;
 
 import com.codename1.components.InfiniteProgress;
-import com.codename1.messaging.Message;
-import com.codename1.notifications.LocalNotification;
 import com.codename1.ui.Display;
 import com.codename1.ui.Image;
 import com.codename1.ui.Label;
@@ -30,9 +28,6 @@ import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.ui.layouts.FlowLayout;
 import com.codename1.ui.util.Effects;
 import com.codename1.ui.util.UITimer;
-import java.io.IOException;
-import java.util.Random;
-import services.ServiceUser;
 
 /**
  * GUI builder created Form
@@ -55,11 +50,6 @@ public class SplashForm extends com.codename1.ui.Form {
         Image logoImage = Effects.dropshadow(resourceObjectInstance.getImage("logo.png"), 0, 0, size, size);
         gui_Label_1.setIcon(logoImage);
         UITimer.timer(3000, false, this, () -> new LoginForm(resourceObjectInstance).show());
-        //ServiceUser.getInstance().deleteTempImageStorage();
-        
-/*Message m = new Message("Body of message");
-Display.getInstance().sendMessage(new String[] {"fahd.larayedh@gmail.com"}, "Subject of message", m);*/        
-
     }
 
 ////-- DON'T EDIT BELOW THIS LINE!!!

@@ -21,11 +21,11 @@ public class User {
     private String last_login;
     private int enabled;
     private String photo;
-    private int score ;
+    private int score;
     
     public User (){
     }
-    
+      
     public User (String username,String password){
         this.username=username;
         this.password=password;
@@ -35,13 +35,6 @@ public class User {
         this.id = id;
     }
 
-    public void setScore(int id) {
-        this.score = id;
-    }
-    public int getScore() {
-       return this.score;
-    }
-    
     public void setUsername(String username) {
         this.username = username;
     }
@@ -116,6 +109,14 @@ public class User {
 
     public String getPhoto() {
         return photo;
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public void setScore(int score) {
+        this.score = score;
     }
     
     @Override

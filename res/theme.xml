@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resource majorVersion="1" minorVersion="11" useXmlUI="false">
-    <image name="AAAfacebbok.borderBottom_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderBottom_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderBottomL_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderBottomL_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderBottomR_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderBottomR_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderCenter_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderCenter_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderLeft_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderLeft_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderRight_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderRight_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderTop_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderTop_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderTopL_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderTopL_2.png" type="multi"  />
-    <image name="AAAfacebbok.borderTopR_1.png" type="multi"  />
-    <image name="AAAfacebbok.borderTopR_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottom_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottom_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottomL_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottomL_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottomR_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderBottomR_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderCenter_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderCenter_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderLeft_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderLeft_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderRight_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderRight_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTop_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTop_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTopL_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTopL_2.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTopR_1.png" type="multi"  />
-    <image name="AAAfacebbok.sel#borderTopR_2.png" type="multi"  />
-    <image name="AAfacebook.borderBottom_1.png" type="multi"  />
-    <image name="AAfacebook.borderBottomL_1.png" type="multi"  />
-    <image name="AAfacebook.borderBottomR_1.png" type="multi"  />
-    <image name="AAfacebook.borderCenter_1.png" type="multi"  />
-    <image name="AAfacebook.borderLeft_1.png" type="multi"  />
-    <image name="AAfacebook.borderRight_1.png" type="multi"  />
-    <image name="AAfacebook.borderTop_1.png" type="multi"  />
-    <image name="AAfacebook.borderTopL_1.png" type="multi"  />
-    <image name="AAfacebook.borderTopR_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderBottom_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderBottomL_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderBottomR_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderCenter_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderLeft_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderRight_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderTop_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderTopL_1.png" type="multi"  />
-    <image name="AAfacebook.sel#borderTopR_1.png" type="multi"  />
-    <image name="AFB.borderBottom_1.png" type="multi"  />
-    <image name="AFB.borderBottomL_1.png" type="multi"  />
-    <image name="AFB.borderBottomR_1.png" type="multi"  />
-    <image name="AFB.borderCenter_1.png" type="multi"  />
-    <image name="AFB.borderLeft_1.png" type="multi"  />
-    <image name="AFB.borderRight_1.png" type="multi"  />
-    <image name="AFB.borderTop_1.png" type="multi"  />
-    <image name="AFB.borderTopL_1.png" type="multi"  />
-    <image name="AFB.borderTopR_1.png" type="multi"  />
+    <image name="1.jpg"  />
+    <image name="2.jpg"  />
+    <image name="3.jpg"  />
     <image name="background.jpg"  />
     <image name="bla.jpg"  />
     <image name="bridge.jpg"  />
@@ -83,6 +23,8 @@
     <image name="contact-b.png" type="multi"  />
     <image name="contact-c.png" type="multi"  />
     <image name="dark-rect.png" type="multi"  />
+    <image name="default.jpg"  />
+    <image name="first.png"  />
     <image name="griffith.jpg"  />
     <image name="GroupElement.borderBottom_1.png" type="multi"  />
     <image name="GroupElement.borderBottomL_1.png" type="multi"  />
@@ -120,8 +62,8 @@
     <image name="GroupElementOnly.borderTop_1.png" type="multi"  />
     <image name="GroupElementOnly.borderTopL_1.png" type="multi"  />
     <image name="GroupElementOnly.borderTopR_1.png" type="multi"  />
-    <ui name="GUI 1" />
     <image name="hd.png"  />
+    <image name="holder.jpg"  />
     <l10n name="l1">
         <lang name="en">
             <entry key="menu" value="Menu" />
@@ -131,8 +73,8 @@
             <entry key="Calendar.Thursday" value="Thu" />
             <entry key="ok" value="OK" />
             <entry key="Calendar.Saturday" value="Sat" />
-            <entry key="Calendar.Friday" value="Fri" />
             <entry key="select" value="Select" />
+            <entry key="Calendar.Friday" value="Fri" />
             <entry key="edit" value="Edit" />
             <entry key="Calendar.Monday" value="Mon" />
             <entry key="cancel" value="Cancel" />
@@ -140,41 +82,33 @@
     </l10n>
     <image name="label_round-selected.png" type="multi"  />
     <image name="label_round.png" type="multi"  />
+    <image name="leaderboard.jpg"  />
     <image name="learn-codename-one.jpg"  />
     <image name="loading.png"  />
     <image name="logo.png"  />
-    <image name="logoASFER.png"  />
     <image name="profile_image.png" type="multi"  />
     <image name="progress.png" type="multi"  />
+    <image name="secound.jpg"  />
     <image name="selection-in-sidemenu.png" type="multi"  />
     <image name="sidemenu-background.jpg"  />
     <image name="skate-park.jpg"  />
     <theme name="Theme">
         <val key="@ComponentGroupBool" value="true" />
         <val key="@includeNativeBool" value="true" />
-        <val key="AFB.align" value="4" />
-        <border key="AFB.border" type="image" i1="AFB.borderTop_1.png" i2="AFB.borderBottom_1.png" i3="AFB.borderLeft_1.png" i4="AFB.borderRight_1.png" i5="AFB.borderTopL_1.png" i6="AFB.borderTopR_1.png" i7="AFB.borderBottomL_1.png" i8="AFB.borderBottomR_1.png" i9="AFB.borderCenter_1.png" />
-        <val key="AFB.fgColor" value="0" />
-        <font key="AFB.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="2.5" />
-        <val key="AFB.marUnit" value="2,2,2,2" />
-        <val key="AFB.margin" value="1.0,1.0,1.0,1.0" />
-        <val key="AFB.padUnit" value="2,2,2,2" />
-        <val key="AFB.padding" value="1.0,1.0,2.0,2.0" />
-        <val key="AFB.transparency" value="0" />
-        <gradient key="Button.bgGradient" color1="16763410" color2="0" posX="0.51" posY="0.5" radius="1.0" />
+        <gradient key="Button.bgGradient" color1="2502456" color2="0" posX="0.51" posY="0.5" radius="1.0" />
         <val key="Button.bgType" value="7" />
         <border key="Button.border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="2.0" bezierCorners="false" />
         <val key="Button.fgColor" value="ffffff" />
-        <font key="Button.font" type="system" face="0" style="0" size="0" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="5.0" />
         <val key="Button.marUnit" value="2,2,2,2" />
         <val key="Button.margin" value="1.0,1.0,1.0,1.0" />
         <val key="Button.padUnit" value="2,2,2,2" />
         <val key="Button.padding" value="4.0,4.0,4.0,4.0" />
-        <gradient key="Button.press#bgGradient" color1="16763410" color2="16777215" posX="0.5" posY="0.5" radius="1.0" />
-        <val key="Button.press#bgType" value="7" />
-        <border key="Button.press#border" type="empty" />
+        <val key="Button.press#bgImage" value="background.jpg" />
+        <val key="Button.press#bgType" value="2" />
+        <border key="Button.press#border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="2.0" bezierCorners="false" />
         <val key="Button.press#fgColor" value="ffffff" />
-        <font key="Button.press#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="3" actualSize="3.0" />
+        <font key="Button.press#font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="5.0" />
         <val key="Button.press#marUnit" value="2,2,2,2" />
         <val key="Button.press#margin" value="1.0,1.0,1.0,1.0" />
         <val key="Button.press#padUnit" value="2,2,2,2" />
@@ -215,6 +149,9 @@
         <val key="CalendarHourSelected.margin" value="1.0,1.0,1.0,1.0" />
         <val key="CalendarHourSelected.padUnit" value="2,2,2,2" />
         <val key="CalendarHourSelected.padding" value="1.0,1.0,2.0,2.0" />
+        <val key="CalendarHourSelected.press#bgColor" value="0" />
+        <val key="CalendarHourSelected.press#derive" value="Button" />
+        <font key="CalendarHourSelected.press#font" type="system" face="0" style="0" size="0" />
         <val key="CalendarHourSelected.transparency" value="0" />
         <val key="CalendarHourUnselected.align" value="4" />
         <border key="CalendarHourUnselected.border" type="round" roundBorderColor="13840175" opacity="0" strokeColor="12438235" strokeOpacity="255" strokeThickness="1.5" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
@@ -224,8 +161,12 @@
         <val key="CalendarHourUnselected.margin" value="1.0,1.0,1.0,1.0" />
         <val key="CalendarHourUnselected.padUnit" value="2,2,2,2" />
         <val key="CalendarHourUnselected.padding" value="1.0,1.0,2.0,2.0" />
+        <val key="CalendarHourUnselected.press#derive" value="Button" />
+        <font key="CalendarHourUnselected.press#font" type="system" face="0" style="0" size="0" />
         <val key="CalendarHourUnselected.transparency" value="0" />
-        <border key="CalendarSelectedDay.border" type="round" roundBorderColor="13840175" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="false" />
+        <val key="CalendarMultipleDay.bgImage" value="label_round-selected.png" />
+        <val key="CalendarMultipleDay.bgType" value="34" />
+        <border key="CalendarSelectedDay.border" type="round" roundBorderColor="16724787" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="false" />
         <val key="CalendarSelectedDay.fgColor" value="ffffff" />
         <font key="CalendarSelectedDay.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
         <val key="CalendarSelectedDay.padUnit" value="2,2,2,2" />
@@ -285,11 +226,11 @@
         <val key="CenterWhite.sel#padding" value="1.0,1.0,3.0,3.0" />
         <val key="DarkRect.bgColor" value="262f38" />
         <border key="DarkRect.border" type="round" roundBorderColor="2502456" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
-        <val key="DarkRect.fgColor" value="262f38" />
-        <font key="DarkRect.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="0.5" />
+        <val key="DarkRect.fgColor" value="ffffff" />
+        <font key="DarkRect.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="7.0" />
         <val key="DarkRect.margin" value="0.0,0.0,0.0,0.0" />
         <val key="DarkRect.padUnit" value="2,2,0,2" />
-        <val key="DarkRect.padding" value="0.0,0.0,5.0,5.0" />
+        <val key="DarkRect.padding" value="0.0,0.0,33.0,5.0" />
         <val key="DarkRect.transparency" value="0" />
         <val key="FloatingActionButton.align" value="4" />
         <val key="FloatingActionButton.bgColor" value="eeb295" />
@@ -323,7 +264,6 @@
         <val key="FloatingActionButtonClose.sel#fgColor" value="ffffff" />
         <val key="GetStartedButton.fgColor" value="ffffff" />
         <font key="GetStartedButton.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
-        <val key="GetStartedButton.press#fgColor" value="ffffff" />
         <font key="GetStartedButton.press#font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
         <val key="GetStartedButton.press#transparency" value="0" />
         <val key="GetStartedButton.sel#fgColor" value="ffffff" />
@@ -334,7 +274,7 @@
         <val key="GetStartedRedArrow.fgColor" value="e25d59" />
         <font key="GetStartedRedArrow.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
         <val key="GetStartedRedArrow.press#align" value="1" />
-        <val key="GetStartedRedArrow.press#fgColor" value="e25d59" />
+        <val key="GetStartedRedArrow.press#fgColor" value="ffffff" />
         <font key="GetStartedRedArrow.press#font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
         <val key="GetStartedRedArrow.press#transparency" value="0" />
         <val key="GetStartedRedArrow.sel#align" value="1" />
@@ -527,7 +467,8 @@
         <val key="SideCommandSmall.padding" value="0.0,4.0,0.0,0.0" />
         <val key="SideCommandSmall.textDecoration" value="0" />
         <val key="SideNavigationPanel.bgImage" value="sidemenu-background.jpg" />
-        <val key="SideNavigationPanel.bgType" value="33" />
+        <val key="SideNavigationPanel.bgType" value="1" />
+        <val key="SideNavigationPanel.fgColor" value="0" />
         <val key="SideNavigationPanel.padUnit" value="2,2,0,0" />
         <val key="SideNavigationPanel.padding" value="16.0,0.0,5.0,0.0" />
         <val key="SignInForm.bgColor" value="ffffff" />
@@ -540,13 +481,14 @@
         <val key="SigninTitle.transparency" value="0" />
         <val key="Slider.bgColor" value="262f38" />
         <border key="Slider.border" type="empty" />
-        <val key="Slider.fgColor" value="e87a67" />
+        <val key="Slider.fgColor" value="ffffff" />
         <val key="Slider.sel#bgColor" value="262f38" />
         <border key="Slider.sel#border" type="empty" />
         <val key="Slider.sel#transparency" value="255" />
         <val key="Slider.transparency" value="255" />
-        <val key="SliderFull.bgColor" value="e87a67" />
+        <val key="SliderFull.bgColor" value="ffff00" />
         <border key="SliderFull.border" type="empty" />
+        <val key="SliderFull.fgColor" value="0" />
         <val key="SliderFull.sel#bgColor" value="e87a67" />
         <border key="SliderFull.sel#border" type="empty" />
         <val key="SliderFull.sel#transparency" value="255" />
@@ -589,7 +531,7 @@
         <val key="SmallFontLabel.sel#transparency" value="0" />
         <val key="SmallFontLabel.transparency" value="0" />
         <val key="SmallLabel.fgColor" value="3c4f5e" />
-        <font key="SmallLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="2.0" />
+        <font key="SmallLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="4.0" />
         <val key="SmallLabel.margin" value="0.0,0.0,0.0,0.0" />
         <val key="SmallLabel.padUnit" value="2,2,2,2" />
         <val key="SmallLabel.padding" value="1.0,1.0,1.0,1.0" />
@@ -624,32 +566,32 @@
         <val key="StatsLabel.transparency" value="0" />
         <val key="StausBar.transparency" value="0" />
         <val key="TinyBoldLabel.fgColor" value="3c4f5e" />
-        <font key="TinyBoldLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="3" actualSize="1.5" />
+        <font key="TinyBoldLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="3" actualSize="2.5" />
         <val key="TinyBoldLabel.margin" value="0.0,0.0,0.0,0.0" />
         <val key="TinyBoldLabel.padUnit" value="2,2,2,2" />
         <val key="TinyBoldLabel.padding" value="1.0,1.0,1.0,1.0" />
         <val key="TinyBoldLabel.transparency" value="0" />
         <val key="TinyThinLabel.fgColor" value="3c4f5e" />
-        <font key="TinyThinLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="1.5" />
+        <font key="TinyThinLabel.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="3.0" />
         <val key="TinyThinLabel.margin" value="0.0,0.0,0.0,0.0" />
         <val key="TinyThinLabel.padUnit" value="2,2,2,2" />
         <val key="TinyThinLabel.padding" value="1.0,1.0,1.0,1.0" />
         <val key="TinyThinLabel.transparency" value="0" />
         <val key="TinyThinLabelRight.align" value="3" />
         <val key="TinyThinLabelRight.fgColor" value="3c4f5e" />
-        <font key="TinyThinLabelRight.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="1.5" />
+        <font key="TinyThinLabelRight.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="2.5" />
         <val key="TinyThinLabelRight.margin" value="0.0,0.0,0.0,0.0" />
         <val key="TinyThinLabelRight.padUnit" value="2,2,2,2" />
         <val key="TinyThinLabelRight.padding" value="1.0,1.0,1.0,1.0" />
         <val key="TinyThinLabelRight.transparency" value="0" />
         <val key="Title.fgColor" value="ffffff" />
-        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
         <val key="TitleCommand.fgColor" value="ffffff" />
         <font key="TitleCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
         <val key="TitleCommand.padUnit" value="2,2,2,2" />
         <val key="TitleCommand.padding" value="1.0,1.0,1.0,1.0" />
-        <gradient key="Toolbar.bgGradient" color1="0" color2="16763410" posX="0.5" posY="0.5" radius="1.0" />
-        <val key="Toolbar.bgType" value="7" />
+        <val key="Toolbar.bgImage" value="background.jpg" />
+        <val key="Toolbar.bgType" value="29" />
         <border key="Toolbar.border" type="empty" />
         <val key="Welcome.bgImage" value="welcome-background.jpg" />
         <val key="Welcome.bgType" value="33" />
@@ -676,9 +618,43 @@
         <val key="WelcomeTitle.padUnit" value="2,2,2,2" />
         <val key="WelcomeTitle.padding" value="1.0,1.0,1.0,1.0" />
         <val key="WelcomeTitle.transparency" value="0" />
+        <val key="default.bgImage" value="default.jpg" />
+        <val key="default.bgType" value="29" />
+        <border key="default.border" type="empty" />
+        <val key="default.fgColor" value="ffffff" />
+        <font key="default.font" type="ttf" face="0" style="1" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="1" actualSize="12.0" />
+        <val key="default.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="rank.bgImage" value="first.png" />
+        <val key="rank.bgType" value="29" />
+        <border key="rank.border" type="empty" />
+        <val key="rank.fgColor" value="ffffff" />
+        <font key="rank.font" type="ttf" face="0" style="1" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="1" actualSize="12.0" />
+        <val key="rank.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="secound.bgImage" value="secound.jpg" />
+        <val key="secound.bgType" value="29" />
+        <border key="secound.border" type="empty" />
+        <val key="secound.fgColor" value="ffffff" />
+        <font key="secound.font" type="ttf" face="0" style="1" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="1" actualSize="12.0" />
+        <val key="secound.padding" value="0.0,0.0,0.0,0.0" />
+        <border key="taha.border" type="round" roundBorderColor="3355647" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="false" />
+        <val key="taha.dis#derive" value="taha" />
+        <val key="taha.fgColor" value="ffffff" />
+        <font key="taha.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.0" />
+        <val key="taha.padUnit" value="2,2,2,2" />
+        <val key="taha.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="taha.press#derive" value="taha" />
+        <val key="taha.sel#derive" value="taha" />
+        <val key="third.bgImage" value="third.jpg" />
+        <val key="third.bgType" value="29" />
+        <border key="third.border" type="empty" />
+        <val key="third.fgColor" value="ffffff" />
+        <font key="third.font" type="ttf" face="0" style="1" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="1" actualSize="12.0" />
+        <val key="third.padding" value="0.0,0.0,0.0,0.0" />
         <val key="transparency" value="0" />
     </theme>
+    <image name="third.jpg"  />
     <image name="toolbar-profile-pic.png" type="multi"  />
+    <image name="unnamed.jpg"  />
     <image name="walthru-radio-selected.png" type="multi"  />
     <image name="walthru-radio-unselected.png" type="multi"  />
     <image name="welcome-background.jpg"  />
